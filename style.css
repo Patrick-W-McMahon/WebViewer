@@ -2,3 +2,29 @@ html,body{
   padding:0px;
   margin:0px;
 }
+
+nav{
+	display:block;
+	background:lightblue;
+	padding:0px 0px 0px 0px;
+	position:fixed;
+	width:100%;
+}
+
+nav h1{
+	display:inline;
+	font-size:12px;
+}
+
+nav input{
+	display:block;
+	width:100%;
+}
+
+nav button{
+	width:80px;
+	position:absolute;
+	top:0px;
+	right:0px;
+	margin:0px;
+}
